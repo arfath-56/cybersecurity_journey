@@ -1,0 +1,23 @@
+Day 2 – Networking Basics
+
+1. What is a Network?
+A network is a group of connected devices that can communicate with each other.
+
+2. Types of Networks:
+- LAN (Local Area Network) – small area like home, office
+- WAN (Wide Area Network) – large area like the internet
+- MAN (Metropolitan Area Network) – city-level network
+
+3. IP Address:
+- Unique identifier for a device on a network
+- Example: 192.168.1.1
+- IPv4 vs IPv6
+
+4. DNS (Domain Name System):
+- Converts domain names into IP addresses
+- Example: google.com → IP address
+
+5. Basic Commands:
+- ip a → shows IP address
+- ping → checks connectivity
+- netstat → shows network connections
